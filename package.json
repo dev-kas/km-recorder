@@ -1,0 +1,16 @@
+{
+  "name": "km-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "record": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-global-key-listener": "^0.3.0",
+    "robotjs": "^0.6.0"
+  }
+}
